@@ -20,3 +20,11 @@
  * Kelimenin okunusunu da google amcadan ıstemeyı dusnuyorum kesın bunun ıcın bir python modulu vardır.
  
  Devam edecek...
+ 
+ 
+ 
+ ## 1. Aşama
+ data.txt adında elimdeki birkaç kelimeyle örnek bir veri oluşturdum. .CSV formatında olması aslında daha mantıklı olabilir.İkisini de deneyelim.  Şuan sadece ingilizce ve türkçeleri var.
+ * Bir jupyternotebook açıp başlayalım. Veriyi okuyup ufaktan bir tahmin etme şeklinde bir algoritma oluşturalım.
+
+...

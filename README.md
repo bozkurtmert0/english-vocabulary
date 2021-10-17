@@ -2,6 +2,15 @@
  İngilizce kelime bilgisini arttırmak için yapmayı planladıgım proje.
  Ne kadar uzerine dusup yaparım bilmiyorum ama kendim de ihtiyac duyuyorum.
  Once python ile basic bir şekilde yapmayı ardındanda flutter ıle mobile geçirmeyi düşünüyorum.
+ Herhangi bri flutter bilgim yok, bakalım görelim.
+ 
+ 
+ ### Notebookler seklinde başlayayım çalışma şeklide net gorunur belki ufak bir tutoriala dönüşür
+ 
+ 
+ 
+ 
+## Planlanan özellikler
  
  Projenin planladığım ozelliklerini aklıma geldikce yazayım devamı gelir.
  * Kelimelerin ingilizcesi - türkçesi - ingilizce ornek cümlesi - türkçe örnek cümlesi olmasını planlıyorum.

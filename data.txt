@@ -1,1 +1,17 @@
-
+phase faz/aşama/evre
+raw-data işlenmemiş-veri
+enrich zenginleştirmek/değer-katmak
+curriculum müfredat
+appropriate uygun
+essential-prereqisite temel-ön-koşul
+relavant ilgili/uygun
+intuition sezgi
+magnitude büyüklük/önem
+occur oluşmak
+latitude enlem
+individual tek/bireysel
+instances örnekler
+concise kısa/özlü
+sparse seyrek
+redundant gereksiz
+obtain elde-etmek

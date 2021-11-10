@@ -1,4 +1,4 @@
-# english-vocabulary
+
  İngilizce kelime bilgisini arttırmak için yapmayı planladıgım proje.
  Ne kadar uzerine dusup yaparım bilmiyorum ama kendim de ihtiyac duyuyorum.
  Once python ile basic bir şekilde yapmayı ardındanda flutter ıle mobile geçirmeyi düşünüyorum.

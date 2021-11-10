@@ -23,8 +23,16 @@
  
  
  
- ## 1. Aşama
+ ## Step1
  data.txt adında elimdeki birkaç kelimeyle örnek bir veri oluşturdum. .CSV formatında olması aslında daha mantıklı olabilir.İkisini de deneyelim.  Şuan sadece ingilizce ve türkçeleri var.
  * Bir jupyternotebook açıp başlayalım. Veriyi okuyup ufaktan bir tahmin etme şeklinde bir algoritma oluşturalım.
+ * Verinin okunmasi ve duzenlenmesiyle ilgili seyler denedim
 
+ ## Step2
+ * Step1 de yazilan basit algoritmanin uzerinde duzenlemeler yapildi.
+ * Yeni kelime eklemek icin fonksiyon tanimlandi.
+ * Kelime performansi takibi icin csv dosyasina puan adli sutun eklendi ve fonksiyonlar ile islem yapmasi saglandi.
+ * Programi cagirmasi kolaylasin diye ana main fonksiyonu tanimlandi.
+ * DataFrame uzerinde calisildiktan sonra kaydedildi.
+ 
 ...
